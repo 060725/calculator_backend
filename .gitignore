@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+calculator.db
+.venv/
+venv/
